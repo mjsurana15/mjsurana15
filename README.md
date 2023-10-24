@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! 👋 I'm Manoj Surana!
 
-<!--
-**mjsurana15/mjsurana15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub world! I'm a passionate Full Stack Developer, specializing in the MERN (MongoDB, Express, React, Node.js) stack. I love building web applications and turning ideas into reality.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, JavaScript, HTML, CSS
+- Backend: Node.js, Express
+- Database: MongoDB
+- Version Control: Git
+- Deployment: Heroku, Netlify, Vercel
+
+## 💡 What I'm Up To
+
+I'm constantly exploring new technologies and working on exciting projects. My repositories are a mix of personal projects, open-source contributions, and experimentation.
+
+## 📫 Let's Connect
+
+If you have questions, want to collaborate on a project, or just want to chat about tech, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/mjsurana/) and [Twitter](https://twitter.com/mjsurana1511).
+
+## 🌐 Check Out My Work
+
+- [LinkedIn](https://www.linkedin.com/in/mjsurana/)
+- [Twitter](https://twitter.com/mjsurana1511)
+
+Thanks for stopping by! 🚀
